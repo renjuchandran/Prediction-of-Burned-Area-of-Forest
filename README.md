@@ -1,1 +1,2 @@
 # Prediction-of-Burned-Area-of-Forest
+The goal is to try to identify clusters of passengers for an Airlines that have similar characteristics for the purpose of targeting different segments for different types of mileage offers. Applied the hierarchical clustering (Euclidean distance & Ward’s method) and plotted the dendrogram. Identified the 3 cluster- High spending, medium spending and Low spending - with help of dendrogram and compared the results with k-means clustering. By making  use of this data, airlines can announce various offers to various segments
